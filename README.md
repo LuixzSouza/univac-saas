@@ -72,8 +72,8 @@ Siga os passos abaixo para rodar o projeto localmente.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/projeto-univac.git](https://github.com/seu-usuario/projeto-univac.git)
-    cd projeto-univac
+    git clone https://github.com/LuixzSouza/univac-saas.git
+    cd univac-saas
     ```
 
 2.  **Instale as dependências:**
